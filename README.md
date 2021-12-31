@@ -2,7 +2,7 @@
 
 ## Analysis Purpose
 
-The purpose of this analysis is to create a model that can predict 
+The purpose of this analysis is to create a binary classifier model that can predict whether applicants will be successful if Alphabet Soup funded them. 
 
 ## Results
 
